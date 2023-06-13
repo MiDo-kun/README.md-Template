@@ -12,6 +12,8 @@ e.g.
 
 This project is a blog site web application that focuses on providing visitors with simple yet informative blog posts. The front-end design is minimalist and prioritizes simplicity and ease of use, allowing users to access and read blogs quickly and efficiently. The application was built using Vite, a fast and efficient build tool for modern web development, along with React, a popular JavaScript library for building user interfaces. The Tailwind CSS framework was also used to ensure a streamlined development process.
 
+Note: Use image or gif as preview here.
+
 You can view the live website [here](your-user-name/your-repo-name.git).
 
 **Note**: Additional info goes here.
